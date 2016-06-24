@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>0 Robert C Martion</item>
+
+        <item>1   Liam	Emma</item>
+        <item>2	Noah	Olivia</item>
+        <item>3	Mason	Sophia</item>
+        <item>4	Ethan	Ava</item>
+        <item>5	Logan	Isabella</item>
+        <item>6	Lucas	Mia</item>
+        <item>7	Jackson	Charlotte</item>
+        <item>8	Jacob	Emily</item>
+        <item>9	Oliver	Amelia</item>
+        <item>10	Aiden	Madison</item>
+        <item>11	Elijah	Abigail</item>
+        <item>12	Alexander	Harper</item>
+        <item>13	James	Ella</item>
+        <item>14	Luke	Lily</item>
+        <item>15	Benjamin	Chloe</item>
+        <item>16	Jack	Avery</item>
+        <item>17	Michael	Evelyn</item>
+        <item>18	William	Sofia</item>
+        <item>19	Gabriel	Aubrey</item>
+        <item>20	Daniel	Audrey</item>
+        <item>21	Henry	Grace</item>
+        <item>22	Caleb	Zoey</item>
+        <item>23	Wyatt	Ellie</item>
+        <item>24	Owen	Aria</item>
+        <item>25	Carter	Hannah</item>
+        <item>26	Matthew	Nora</item>
+        <item>27	Jayden	Elizabeth</item>
+        <item>28	Ryan	Zoe</item>
+        <item>29	Joshua	Scarlett</item>
+        <item>30	Isaac	Addison</item>
+        <item>31	Nathan	Mila</item>
+        <item>32	Connor	Brooklyn</item>
+        <item>33	Andrew	Layla</item>
+        <item>34	Hunter	Natalie</item>
+        <item>35	Dylan	Lucy</item>
+        <item>36	Sebastian	Lillian</item>
+        <item>37	Eli	Penelope</item>
+        <item>38	David	Claire</item>
+        <item>39	Joseph	Savannah</item>
+        <item>40	Samuel	Riley</item>
+    </string-array>
+</resources>
